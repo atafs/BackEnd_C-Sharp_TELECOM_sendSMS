@@ -1,0 +1,2 @@
+//send message
+http://api.clickatell.com/http/sendmsg?user=americolib&password=POgCFIgJcUPCNa&api_id=3585811&to=351917639454&text=Message

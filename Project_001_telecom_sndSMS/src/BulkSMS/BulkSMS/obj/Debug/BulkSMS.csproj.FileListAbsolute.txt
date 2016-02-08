@@ -1,0 +1,9 @@
+D:\clouds\Drive Ilimitado\BackEnd_TELECOM_C-Sharp_Java\Project_001_telecom_sndSMS\src\BulkSMS\BulkSMS\bin\Debug\BulkSMS.exe.config
+D:\clouds\Drive Ilimitado\BackEnd_TELECOM_C-Sharp_Java\Project_001_telecom_sndSMS\src\BulkSMS\BulkSMS\bin\Debug\BulkSMS.exe
+D:\clouds\Drive Ilimitado\BackEnd_TELECOM_C-Sharp_Java\Project_001_telecom_sndSMS\src\BulkSMS\BulkSMS\bin\Debug\BulkSMS.pdb
+D:\clouds\Drive Ilimitado\BackEnd_TELECOM_C-Sharp_Java\Project_001_telecom_sndSMS\src\BulkSMS\BulkSMS\obj\Debug\BulkSMS.csprojResolveAssemblyReference.cache
+D:\clouds\Drive Ilimitado\BackEnd_TELECOM_C-Sharp_Java\Project_001_telecom_sndSMS\src\BulkSMS\BulkSMS\obj\Debug\BulkSMS.Form1.resources
+D:\clouds\Drive Ilimitado\BackEnd_TELECOM_C-Sharp_Java\Project_001_telecom_sndSMS\src\BulkSMS\BulkSMS\obj\Debug\BulkSMS.Properties.Resources.resources
+D:\clouds\Drive Ilimitado\BackEnd_TELECOM_C-Sharp_Java\Project_001_telecom_sndSMS\src\BulkSMS\BulkSMS\obj\Debug\BulkSMS.csproj.GenerateResource.Cache
+D:\clouds\Drive Ilimitado\BackEnd_TELECOM_C-Sharp_Java\Project_001_telecom_sndSMS\src\BulkSMS\BulkSMS\obj\Debug\BulkSMS.exe
+D:\clouds\Drive Ilimitado\BackEnd_TELECOM_C-Sharp_Java\Project_001_telecom_sndSMS\src\BulkSMS\BulkSMS\obj\Debug\BulkSMS.pdb
