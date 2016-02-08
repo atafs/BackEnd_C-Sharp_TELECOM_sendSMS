@@ -1,0 +1,12 @@
+//localhost
+http://localhost:8161/
+
+//USER PASS
+admin	
+admin
+
+//LOGIN
+http://localhost:8161/admin/
+
+//QUEUE
+http://localhost:8161/admin/queues.jsp;jsessionid=1c5yw33r1xd7co4smo4sx7zsg
